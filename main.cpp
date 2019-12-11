@@ -39,3 +39,35 @@ int main(void){
     
 
 }
+
+void steering(byte direction){
+    
+    switch(direction){
+            
+        case 0b00000000:
+            break;
+            
+        case 0b00000000:
+            break;
+            
+        case 0b00000000:
+            break;
+            
+        case 0b00000000:
+            break;
+            
+        case 0b00000000:
+            break;
+            
+        case 0b00000000:
+            break;
+            
+        case 0b00000000:
+            break;
+            
+        case 0b00000000:
+            break;
+    
+            
+    }
+}
